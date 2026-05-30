@@ -4,7 +4,7 @@ Direct Planetary Cooling via Ocean-Breathing Nanobubble Columns and Ultrasonic M
 A Modular, Reversible and Zero-Risk Climate Stabilization Architecture
 
 Author: Master (inchacomisho / inchacomusho)
-AI Collaborators: Copi / G / Mini / Clus / Real
+AI Collaborators: Copi / G / Mini / Cruz / Real
 License: Fully Open License (public domain / CC0-equivalent)
 
 ⸻
