@@ -185,3 +185,13 @@ https://note.com/inchacomusho/n/n5ab9564c6617
 https://note.com/inchacomusho/n/nb93c0dfbf2a3
 
 https://note.com/inchacomusho/n/nff8335ef1f84
+
+---
+
+## Narrative Companion
+
+> *A speculative fiction work — not a scientific paper or engineering specification. CO₂ reduction remains necessary and is not contradicted by this work.*
+
+**[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
+
+This narrative explores the same intervention concepts — nanobubble ocean columns, ultrasonic micro-mist shielding — as a dramatic scenario set in the near future, framed as a speculative response under consideration rather than a validated or inevitable outcome.
