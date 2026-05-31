@@ -80,6 +80,25 @@ Cooling flux: up to 670 W/m²
 
 ⸻
 
+2.2.1 Mechanical Implementation Example: Center-Mist Ultrasonic Cooling Fan
+
+The Center-Mist Ultrasonic Cooling Fan Concept provides a device-level implementation pathway for UMC. Instead of placing mist nozzles only around the outer fan perimeter, it proposes introducing ultrasonic mist into the central airflow core, where mixing, radial dispersion, and evaporation may be improved.
+
+The concept includes:
+- center-directed ultrasonic mist injection
+- hollow-shaft fan architecture
+- offset or peripheral drive systems
+- internal spiral water-return grooves
+- passive separation between larger droplets and fine mist particles
+
+This design should be treated as a conceptual mechanical proposal, not as a validated commercial product or proven cooling system. Its cooling performance, water consumption, aerosol behavior, humidity effects, microbial safety, maintenance requirements, material durability, and real-world energy efficiency require experimental verification.
+
+Related repository:
+- Center-Mist Ultrasonic Cooling Fan Concept
+  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
+
+⸻
+
 2.3 Floating Modular Platform
 
 A shared platform powers both systems.
@@ -151,7 +170,12 @@ All components exist today, and the design is fully open to humanity.
 
 GitHub SEO-Optimized Tags
 
-#DirectPlanetaryCooling #OceanBreathingSystem #NanobubbleEngineering #UltrasonicMistCooling #ClimateStabilization #OceanCoolingArchitecture #OpenClimateEngineering #SafeClimateTech #ModularGeoSafeCooling #HeatReductionSystem #PlanetaryCoolingFramework #CO2FixationEnhancement
+#DirectPlanetaryCooling #OceanBreathingSystem #NanobubbleEngineering #UltrasonicMistCooling #ClimateStabilization #OceanCoolingArchitecture #OpenClimateEngineering #SafeClimateTech #ModularGeoSafeCooling #HeatReductionSystem #PlanetaryCoolingFramework #CO2FixationEnhancement #CenterMistFan #DistributedCooling
+
+Related repositories:
+- Center-Mist Ultrasonic Cooling Fan Concept
+  Device-level UMC implementation concept using center mist injection, hollow-shaft airflow, offset drive, and spiral water-return structure.
+  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 https://note.com/inchacomusho/n/n71acdc2b6c1f
 
 https://note.com/inchacomusho/n/na09c00d5c2ad
