@@ -195,3 +195,17 @@ https://note.com/inchacomusho/n/nff8335ef1f84
 **[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
 
 This narrative explores the same intervention concepts — nanobubble ocean columns, ultrasonic micro-mist shielding — as a dramatic scenario set in the near future, framed as a speculative response under consideration rather than a validated or inevitable outcome.
+
+---
+
+## Related Repositories
+
+- [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — Defines deep-sea aeration as an ocean metabolism restart technology.
+- [Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation](https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation) — Clarifies risk misunderstandings around deep-sea aeration.
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS × UMC ocean temperature reduction framework.
+- [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Technical specification for the Ocean Tuning Unit.
+- [Physical-Model-of-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-) — Physical model of spiral-driven deep-sea aeration and vertical circulation.
+- [Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — DPC framework based on Ocean Tuning Units.
+- [Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation) — AI-controlled urban mist cooling concept.
+- [Urban-Water-Circulation-System-UEPWI](https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI) — Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
