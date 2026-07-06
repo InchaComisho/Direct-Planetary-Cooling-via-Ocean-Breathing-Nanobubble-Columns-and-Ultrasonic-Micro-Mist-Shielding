@@ -3,6 +3,8 @@ This whitepaper introduces a fully deployable, modular and low-risk climate-cool
 Direct Planetary Cooling via Ocean-Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
 A Modular, Reversible and Zero-Risk Climate Stabilization Architecture
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Author: Master (inchacomisho / inchacomusho)
 AI Collaborators: Copi / G / Mini / Cruz / Real
 License: Fully Open License (public domain / CC0-equivalent)
