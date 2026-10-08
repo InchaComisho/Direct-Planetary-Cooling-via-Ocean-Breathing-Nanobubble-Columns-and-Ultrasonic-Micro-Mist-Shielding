@@ -173,11 +173,6 @@ OBS×UMCによる直接惑星冷却は、海洋熱蓄積という気候不安定
 
 - [Center-Mist Ultrasonic Cooling Fan Concept](https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept)
 - [Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation](https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation)
-- https://note.com/inchacomusho/n/n71acdc2b6c1f
-- https://note.com/inchacomusho/n/na09c00d5c2ad
-- https://note.com/inchacomusho/n/n5ab9564c6617
-- https://note.com/inchacomusho/n/nb93c0dfbf2a3
-- https://note.com/inchacomusho/n/nff8335ef1f84
 - [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — 自然循環を回復するための自然補完科学の中核定義。
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学とバイオシンセシスを自然循環回復として整理する関連フレームワーク。
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。

@@ -178,15 +178,6 @@ Related repositories:
 - Center-Mist Ultrasonic Cooling Fan Concept
   Device-level UMC implementation concept using center mist injection, hollow-shaft airflow, offset drive, and spiral water-return structure.
   https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
-https://note.com/inchacomusho/n/n71acdc2b6c1f
-
-https://note.com/inchacomusho/n/na09c00d5c2ad
-
-https://note.com/inchacomusho/n/n5ab9564c6617
-
-https://note.com/inchacomusho/n/nb93c0dfbf2a3
-
-https://note.com/inchacomusho/n/nff8335ef1f84
 
 ---
 
