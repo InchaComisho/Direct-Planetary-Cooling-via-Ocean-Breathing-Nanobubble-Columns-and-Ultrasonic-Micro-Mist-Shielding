@@ -1,6 +1,6 @@
 # 海洋呼吸ナノバブル柱と超音波マイクロミスト遮蔽による直接惑星冷却
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Ocean Breathing System（OBS：海洋呼吸システム）と Ultrasonic Micro-Mist Cooling（UMC：超音波マイクロミスト冷却）を組み合わせた、直接惑星冷却の概念的アーキテクチャを日本語で整理したものです。ここに示す内容は、実証済みの気候制御技術ではなく、仮説的・概念的提案です。実装には、科学的検証、海洋生態系評価、工学的試験、段階的な実証、国際的なガバナンスが必要です。
 
