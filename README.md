@@ -1,4 +1,7 @@
 # Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This whitepaper introduces a fully deployable, modular and low-risk climate-cooling system combining
 Direct Planetary Cooling via Ocean-Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
 A Modular, Reversible and Zero-Risk Climate Stabilization Architecture
